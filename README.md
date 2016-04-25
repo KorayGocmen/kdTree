@@ -1,2 +1,2 @@
 # kdTree
-An implementation of kdTree in 2D space
+A C++ implementation of kdTree in 2D space
