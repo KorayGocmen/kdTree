@@ -27,6 +27,7 @@ A C++ implementation of kdTree in 2D space
 5. You can find the closest node in the tree, to a given node:
     
     `kdtreeNode *closestNode;`
+    
     `closestNode = mykdTree->findClosestPoint(node52);`
 
 6. You can get the root node of the tree:
