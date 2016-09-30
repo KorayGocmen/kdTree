@@ -1,4 +1,5 @@
 # kdTree in C++
+
 ---
 A C++ implementation of kdTree in 2D space
 
@@ -33,6 +34,7 @@ A C++ implementation of kdTree in 2D space
     `kdtreeNode *root;`
     
     `root = mykdTree->getRoot();`
+    
 ---
 
 ### Developed by Koray Gocmen
